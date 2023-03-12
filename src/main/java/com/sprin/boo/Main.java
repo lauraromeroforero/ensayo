@@ -6,7 +6,8 @@ import com.sprin.boo.dueno;
 
 import java.util.Scanner;
 
-public class Main {
+public class
+Main {
     public static void main(String[] args) {
         Scanner teclado = new Scanner(System.in);
         System.out.println("Hola mundo");
