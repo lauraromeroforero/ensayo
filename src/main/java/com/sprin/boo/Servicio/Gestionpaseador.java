@@ -1,4 +1,4 @@
-package com.sprin.boo;
+package com.sprin.boo.Servicio;
 
 public class Gestionpaseador {
 }

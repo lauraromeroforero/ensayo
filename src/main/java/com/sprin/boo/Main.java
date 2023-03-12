@@ -1,8 +1,7 @@
 package com.sprin.boo;
 
-import com.sprin.boo.*;
-import com.sprin.boo.Gestiondueno;
-import com.sprin.boo.dueno;
+import com.sprin.boo.Entidad.dueno;
+import com.sprin.boo.Servicio.Gestiondueno;
 
 import java.util.Scanner;
 
