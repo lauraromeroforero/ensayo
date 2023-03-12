@@ -1,4 +1,4 @@
-package com.sprin.boo;
+package com.sprin.boo.Entidad;
 
 public class paseo {
     private int Id_Paseo;

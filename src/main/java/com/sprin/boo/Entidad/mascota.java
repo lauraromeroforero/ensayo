@@ -1,4 +1,4 @@
-package com.sprin.boo;
+package com.sprin.boo.Entidad;
 
 public class mascota {
     private String Nro_mascota;

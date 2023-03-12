@@ -1,4 +1,7 @@
-package com.sprin.boo;
+package com.sprin.boo.Servicio;
+
+import com.sprin.boo.Conexion;
+import com.sprin.boo.Entidad.paseo;
 
 import java.sql.*;
 import java.util.ArrayList;

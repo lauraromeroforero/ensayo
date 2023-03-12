@@ -1,7 +1,9 @@
 package com.sprin.boo;
 
-import com.sprin.boo.*;
+import com.sprin.boo.Entidad.mascota;
 import com.sprin.boo.Gestiondueno;
+import com.sprin.boo.Servicio.Gestionmascota;
+import com.sprin.boo.Servicio.Gestionpaseo;
 import com.sprin.boo.dueno;
 
 import java.util.Scanner;
